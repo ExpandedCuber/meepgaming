@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+}
+.left {
+    width: 8%;
+    height: 15%;
+    border-radius: 100%;
+    background-color: tan;
+    display: inline-block;
+    position: absolute;
+    left: 42%;
+    top: 38%;
+}
+.right {
+    width: 8%;
+    height: 15%;
+    border-radius: 100%;
+    background-color: tan;
+    display: inline-block;
+    position: absolute;
+    left: 48%;
+    top: 38%;
+}
+.middle {
+    width: 8%;
+    height: 25%;
+    background-color: tan;
+    position: absolute;
+    left: 45%;
+    top: 20%;
+    border-radius: 50%;
+}
